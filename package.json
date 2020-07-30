@@ -1,6 +1,6 @@
 {
   "name": "custom-dialog-android",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "CustomDialog for GitPR Project",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
